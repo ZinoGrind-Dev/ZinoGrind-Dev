@@ -1,5 +1,16 @@
 ## Hi I'am Zino and this is my portofolio
+
+
+## About Me
+
+I'am a beginner Developer that just starting out,
+my goal is that i want to become a software developer,
+and i also want to tyr out cyber security 
+
+## My Progress so far 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZinoGrind-Dev&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+## MyProject 
 
 <!--
 **ZinoGrind-Dev/ZinoGrind-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
