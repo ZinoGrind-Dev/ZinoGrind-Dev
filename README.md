@@ -1,6 +1,5 @@
 ## Hi I'am Zino and this is my portofolio
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZinoGrind-Dev)](https://github.com/anuraghazra/github-readme-stats)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZinoGrind-Dev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
