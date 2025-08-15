@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'am Zino and this is my portofolio
 
 <!--
 **ZinoGrind-Dev/ZinoGrind-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
