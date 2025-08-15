@@ -1,5 +1,8 @@
 ## Hi I'am Zino and this is my portofolio
 
+![GitHub stars](https://img.shields.io/github/stars/username/MyShop?style=for-the-badge)
+
+
 <!--
 **ZinoGrind-Dev/ZinoGrind-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
