@@ -1,4 +1,4 @@
-## Hi I'am Zino and this is my portofolio
+# Hi I'am Zino and this is my portofolio
 
 
 ## About Me
