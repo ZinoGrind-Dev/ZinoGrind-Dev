@@ -1,7 +1,9 @@
 ## Hi I'am Zino and this is my portofolio
 
 ![GitHub stars](https://img.shields.io/github/stars/ZinoGrind-Dev/ZinoGrind-Dev?style=for-the-badge)
-
+![GitHub forks](https://img.shields.io/github/forks/ZinoGrind-Dev/ZinoGrind-Dev?style=for-the-badge)
+![License](https://img.shields.io/github/license/ZinoGrind-Dev/ZinoGrind-Dev?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen?style=for-the-badge)
 
 <!--
 **ZinoGrind-Dev/ZinoGrind-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
