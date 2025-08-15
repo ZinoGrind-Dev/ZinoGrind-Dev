@@ -1,6 +1,6 @@
 ## Hi I'am Zino and this is my portofolio
 
-![GitHub stars](https://img.shields.io/github/stars/username/MyShop?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/username/ZinoGrind-Dev?style=for-the-badge)
 
 
 <!--
