@@ -1,5 +1,6 @@
 ## Hi I'am Zino and this is my portofolio
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ZinoGrind-Dev=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)]
 ![GitHub stars](https://img.shields.io/github/stars/ZinoGrind-Dev/ZinoGrind-Dev?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/ZinoGrind-Dev/ZinoGrind-Dev?style=for-the-badge)
 ![License](https://img.shields.io/github/license/ZinoGrind-Dev/ZinoGrind-Dev?style=for-the-badge)
