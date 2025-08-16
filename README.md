@@ -13,11 +13,10 @@ and i also want to tyr out cyber security
 ## MyProject
 
 
-## desktopApp for School Attendance
+## desktopApp for School Attendance  📸 Screenshots
 
-![Logo](https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_dashboard.jpeg)
-![Logo](https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_Attendance.jpeg)
-![Logo](https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_Assesment.jpeg)
+|  <img src="https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_dashboard.jpeg" width = "250"/> | <img src="https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_Attendance.jpeg
+" width ="250"/> | <img src ="https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_Assesment.jpeg" width ="250"/>
 
 
 
