@@ -15,8 +15,9 @@ and i also want to tyr out cyber security
 
 ## desktopApp for School Attendance  📸 Screenshots
 
-|  <img src="https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_dashboard.jpeg" width = "350"/> | <img src="https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_Attendance.jpeg
-" width ="350"/> | <img src ="https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_Assesment.jpeg" width ="350"/> |
+| Dashboard | Attendance | Assessment |
+|-----------|------------|------------|
+| <img src="https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_dashboard.jpeg" width="350"/> | <img src="https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_Attendance.jpeg" width="350"/> | <img src="https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_Assesment.jpeg" width="350"/> |
 
 
 
