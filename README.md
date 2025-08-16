@@ -10,7 +10,13 @@ and i also want to tyr out cyber security
 ## My Progress so far 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZinoGrind-Dev&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-## MyProject 
+## MyProject
+
+
+## desktopApp for School Attendance
+
+![Logo](https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/main/images/DesktopApp_Dashboard.jpeg?raw=true)
+
 
 <!--
 **ZinoGrind-Dev/ZinoGrind-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
