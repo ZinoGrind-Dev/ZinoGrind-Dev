@@ -1,37 +1,42 @@
-# Hi I'am Zino and this is my portofolio
+# Hi, I’m Zino 👋  
 
+## 🚀 About Me  
+I’m a beginner developer just starting out.  
+My goals:  
+- Become a skilled **Software Developer** 💻  
+- Explore **Cyber Security** 🔐  
 
-## About Me
+---
 
-I'am a beginner Developer that just starting out,
-my goal is that i want to become a software developer,
-and i also want to tyr out cyber security 
+## 🌟 Favorite Apps  
+👉 *(You can add logos or icons of your favorite apps here, for example GitHub, VS Code, etc.)*  
 
-## My Progress so far 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZinoGrind-Dev&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## MyProject
+## 📊 My Progress  
+[![Zino's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZinoGrind-Dev&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZinoGrind-Dev&theme=shades-of-purple&border_radius=8)](https://git.io/streak-stats)  
 
-## desktopApp for School Attendance  📸 Screenshots
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZinoGrind-Dev&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+## 💼 My Projects  
+
+### 🖥 Desktop App for School Attendance  
+📸 **Screenshots**  
 
 | Dashboard | Attendance | Assessment |
 |-----------|------------|------------|
 | <img src="https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_dashboard.jpeg" width="350"/> | <img src="https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_Attendance.jpeg" width="350"/> | <img src="https://github.com/ZinoGrind-Dev/ZinoGrind-Dev/blob/main/DesktopApp_Assesment.jpeg" width="350"/> |
 
+---
 
+## 📫 Contact Me  
+- GitHub: [ZinoGrind-Dev](https://github.com/ZinoGrind-Dev)  
+- WhatsApp: [ZinoGrind-Dev](Https://wa.me/628979614596)  
 
-<!--
-**ZinoGrind-Dev/ZinoGrind-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *"Keep learning, keep building, and keep grinding!"*  
