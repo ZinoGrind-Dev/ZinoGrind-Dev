@@ -8,11 +8,6 @@ My goals:
 
 ---
 
-## 🌟 Favorite Apps  
-👉 *(You can add logos or icons of your favorite apps here, for example GitHub, VS Code, etc.)*  
-
----
-
 ## 📊 My Progress  
 [![Zino's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZinoGrind-Dev&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)  
 
