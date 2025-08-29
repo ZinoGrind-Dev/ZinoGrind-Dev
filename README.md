@@ -31,8 +31,8 @@ My goals:
 ## 📫 Contact Me  
 - GitHub: [ZinoGrind-Dev](https://github.com/ZinoGrind-Dev)  
 - WhatsApp: [ZinoGrind-Dev](Https://wa.me/628979614596)  
--Instagram :
-[ZinoGrind-Dev]( https://www.instagram.com/giovanilausan?igsh=MThwY2cxMzc3ejhydA==) 
+- Instagram :
+[ZinoGrind-Dev]( https://www.instagram.com/zino_grind?igsh=MWx0ZDEyamQ3eTJxeA==) 
 ---
 
 ✨ *"Keep learning, keep building, and keep grinding!"*  
